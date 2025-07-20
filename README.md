@@ -1,3 +1,5 @@
+![Fun GIF]([https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif](https://resources.chimhaha.net/article/1736516556100-2iyb7wrc7bn.gif))
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20Welcome!&fontSize=50)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrot2155)](https://github.com/parrot2155/github-readme-stats) [![*'s github stats](https://github-readme-stats.vercel.app/api?username=parrot2155)](https://github.com/parrot2155)
