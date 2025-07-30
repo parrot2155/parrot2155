@@ -1,4 +1,15 @@
-![Image](https://github.com/user-attachments/assets/d1f5fcd9-4305-4ec0-a21f-e2df92a095da)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d1f5fcd9-4305-4ec0-a21f-e2df92a095da" alt="Now Playing" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parrot2155&show_icons=true&theme=radical&count_private=true" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parrot2155&theme=radical" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrot2155&layout=compact&theme=radical" />
+</p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20Welcome!&fontSize=50)
 
