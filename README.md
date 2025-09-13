@@ -1,5 +1,6 @@
 
-<p align="center">
+<p align="center">![1 src](https://github.com/user-attachments/assets/ca01ce08-2eda-41c2-bf92-6fe5d40fae72)
+
   <img src="https://github.com/user-attachments/assets/d1f5fcd9-4305-4ec0-a21f-e2df92a095da" alt="Now Playing" width="600"/>
 </p>
 
