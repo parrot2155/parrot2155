@@ -1,8 +1,8 @@
-    재밌습니다. https://rawcdn.githack.com/parrot2155/Knight-s-Tour/refs/heads/main/KnightsTour.html
+    재밌습니다. 
+    https://rawcdn.githack.com/parrot2155/Knight-s-Tour/refs/heads/main/KnightsTour.html
 <br>
 <hr>
-<br>
-<hr>
+
 
  
 <p align="center">
