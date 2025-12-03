@@ -4,19 +4,9 @@ https://rawcdn.githack.com/parrot2155/Knight-s-Tour/refs/heads/main/KnightsTour.
 <br>
 <hr>
 
-
- 
 <p align="center">
+  <img src="https://r2.jjalbot.com/2024/01/b3oPSerwb.gif" width="420px" height="235px"/>
 
-  <img src="https://github.com/user-attachments/assets/ca01ce08-2eda-41c2-bf92-6fe5d40fae72" alt="Now Playing" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parrot2155&show_icons=true&theme=radical&count_private=true" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parrot2155&theme=radical" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrot2155&layout=compact&theme=radical" />
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20Welcome!&fontSize=50)
