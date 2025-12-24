@@ -1,6 +1,8 @@
 
 https://rawcdn.githack.com/parrot2155/Knight-s-Tour/d272f70b12aee12c8a5fb8044a9a5354587012bd/index.html
 
+https://rawcdn.githack.com/parrot2155/12_janggi/157947b497bfdc8ebbf315e66c7305e7a693b186/%EC%8B%AD%EC%9D%B4%EC%9E%A5%EA%B8%B0.html
+
 <br>
 <hr>
 
